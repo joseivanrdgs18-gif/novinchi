@@ -213,7 +213,7 @@ export default function Home() {
           <span className="text-2xl font-bold text-novischi-black uppercase tracking-widest mx-8">•</span>
           <span className="text-2xl font-bold text-novischi-black uppercase tracking-widest mx-8">NOVISCHI STORE</span>
           <span className="text-2xl font-bold text-novischi-black uppercase tracking-widest mx-8">•</span>
-          <span className="text-2xl font-bold text-novischi-black uppercase tracking-widest mx-8">LOJA ABERTA DE SAGUNDA A SABADO</span>
+          <span className="text-2xl font-bold text-novischi-black uppercase tracking-widest mx-8">LOJA ABERTA DE SAGUNDA A SÁBADO</span>
           <span className="text-2xl font-bold text-novischi-black uppercase tracking-widest mx-8">•</span>
           
           {/* Duplicate for seamless loop */}
